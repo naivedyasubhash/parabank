@@ -1,0 +1,26 @@
+09:03:49.837 [main] INFO  com.parabank.testCases.TC003_AccountRegister_DDT - Clicked on the Register Button....
+09:03:49.912 [main] ERROR com.parabank.testCases.TC003_AccountRegister_DDT - Account Already Existing....
+09:03:55.088 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:03:55.088 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:03:55.138 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:03:55.150 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:03:55.183 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:03:55.183 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:03:55.234 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:03:55.234 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:03:55.268 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:03:55.268 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:03:55.308 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:03:55.308 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:03:55.352 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:03:55.352 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:03:55.388 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:03:55.388 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:03:55.418 [main] INFO  com.parabank.testCases.LoginPageDDT - application launched for login in DDT mode...
+09:03:56.663 [main] INFO  com.parabank.testCases.LoginPageDDT - Successfully logined with the credentialssankarsubash and sankar123
+09:03:56.709 [main] INFO  com.parabank.testCases.LoginPageDDT - Account Overview page is visible-Test Passed
+09:03:57.571 [main] INFO  com.parabank.testCases.LoginPageDDT - Succssfully clicked in logout
+09:03:57.579 [main] INFO  com.parabank.testCases.LoginPageDDT - application launched for login in DDT mode...
+09:03:58.669 [main] INFO  com.parabank.testCases.LoginPageDDT - Successfully logined with the credentialsannamaria and anna123
+09:03:58.719 [main] INFO  com.parabank.testCases.LoginPageDDT - Account Overview page is visible-Test Passed
+09:03:59.686 [main] INFO  com.parabank.testCases.LoginPageDDT - Succssfully clicked in logout

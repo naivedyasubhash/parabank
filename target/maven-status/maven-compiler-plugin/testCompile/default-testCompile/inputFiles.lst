@@ -1,0 +1,12 @@
+C:\Users\naive\eclipse-workspace\ParaBank\src\test\java\com\parabank\pageObjects\AccountOverview.java
+C:\Users\naive\eclipse-workspace\ParaBank\src\test\java\com\parabank\pageObjects\BasePage.java
+C:\Users\naive\eclipse-workspace\ParaBank\src\test\java\com\parabank\pageObjects\HomePage.java
+C:\Users\naive\eclipse-workspace\ParaBank\src\test\java\com\parabank\pageObjects\RegisterPage.java
+C:\Users\naive\eclipse-workspace\ParaBank\src\test\java\com\parabank\testBase\BaseTest.java
+C:\Users\naive\eclipse-workspace\ParaBank\src\test\java\com\parabank\testCases\LoginPageDDT.java
+C:\Users\naive\eclipse-workspace\ParaBank\src\test\java\com\parabank\testCases\TC001_AccountRegistration.java
+C:\Users\naive\eclipse-workspace\ParaBank\src\test\java\com\parabank\testCases\TC002_LoginPage.java
+C:\Users\naive\eclipse-workspace\ParaBank\src\test\java\com\parabank\testCases\TC003_AccountRegister_DDT.java
+C:\Users\naive\eclipse-workspace\ParaBank\src\test\java\com\parabank\utility\DataProviders.java
+C:\Users\naive\eclipse-workspace\ParaBank\src\test\java\com\parabank\utility\ExcelUtility.java
+C:\Users\naive\eclipse-workspace\ParaBank\src\test\java\com\parabank\utility\ExtentReportManager.java
